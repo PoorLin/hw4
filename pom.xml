@@ -9,11 +9,11 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.systex</groupId>
-    <artifactId>hwspring</artifactId>
+    <artifactId>hw4</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>hwspring</name>
-    <description>hwspring</description>
+    <name>hw4</name>
+    <description>hw4</description>
     <url/>
     <licenses>
         <license/>
