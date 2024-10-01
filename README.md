@@ -6,6 +6,10 @@
 == 專案使用手冊
 請您使用 IDE 的 Tomcat 或是外部的 Tomcat 開啟。
 
+* Intellij 
+點選右上角編譯旁邊的edit configuration，新增tomcat並選擇版本10.1.23，選擇完版本後進入此tomcat設定中的deployment，點擊 "+"這個符號後選擇Artifact
+之後會有一個選單，請選擇"hw4:war"，並且把下方的Application context改成 "/hw4" 
+
 == Postman
 
 Postman 是一個流行的 API 開發工具，提供了使用者友好的介面來測試和管理 API 請求。它允許開發者輕鬆發送 HTTP 請求並查看響應，支持各種請求方法（如 GET、POST、PUT、DELETE 等）。
