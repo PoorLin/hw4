@@ -37,8 +37,10 @@
 
                                     <div class="d-flex flex-row align-items-center mb-4">
                                         <div class="form-outline flex-fill mb-0">
-                                            <label class="form-label" >性別</label>
+
                                             <div>
+                                                <form:label class="form-label" path="gender">性別</form:label>
+                                                <br>
                                                 <form:label class="form-label"  path="gender">男</form:label>
                                                 <form:radiobutton  class="form-radio-input" path="gender" value="0"/>
                                                 <form:label class="form-label"  path="gender">女</form:label>
@@ -80,7 +82,7 @@
 
 
                                     <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4">
-                                        <input  type="submit"  class="btn btn-primary btn-lg" value="登入"/>
+                                        <input  type="submit"  class="btn btn-primary btn-lg" value="註冊"/>
                                     </div>
 
                                 </form:form>

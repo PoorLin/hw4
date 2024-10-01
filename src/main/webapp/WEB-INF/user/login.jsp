@@ -49,7 +49,7 @@
 <%--                    </div>--%>
 
                     <div class="text-center text-lg-start mt-4 pt-2">
-                       <input  type="submit"  class="btn btn-primary btn-lg" />
+                       <input  type="submit"  class="btn btn-primary btn-lg" value="登入"/>
                         <p class="small fw-bold mt-2 pt-1 mb-0">Don't have an account? <a href="<%=request.getContextPath()%>/user/register"
                                                                                           class="link-danger">現在註冊</a></p>
                     </div>
