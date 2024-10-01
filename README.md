@@ -6,9 +6,14 @@
 == 專案使用手冊
 請您使用 IDE 的 Tomcat 或是外部的 Tomcat 開啟。
 
-* Intellij 
+=== tomcat (Intellij)
 點選右上角編譯旁邊的edit configuration，新增tomcat並選擇版本10.1.23，選擇完版本後進入此tomcat設定中的deployment，點擊 "+"這個符號後選擇Artifact
-之後會有一個選單，請選擇"hw4:war"，並且把下方的Application context改成 "/hw4" 
+之後會有一個選單，請選擇"hw4:war"，並且把下方的Application context改成 "/hw4"
+
+
+=== main方法執行專案
+執行Application的main方法
+
 
 == Postman
 
